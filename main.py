@@ -1,4 +1,4 @@
-"""Two sums - Matthew Imamura
+"""Two sums
 
 tags: Algorithm, math"""
 
